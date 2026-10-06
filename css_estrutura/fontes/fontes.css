@@ -1,0 +1,32 @@
+body {
+    background-color: #1e1e1e; /* Cor do fundo escuro */
+    color: #ffffff;            /* Cor do texto em branco */
+}
+
+p{
+    color: rgb(102, 0, 161);
+}
+
+h1{
+    color: rgb(242, 242, 242);
+}
+
+
+
+
+h1{
+    font-size: px; /*Tamanho*/
+
+    font-weight: 100;/*Espessura*/
+
+    font-family: Georgia, 'Times New Roman', Times, serif ;/*Familia*/
+
+    text-transform:captalize; /*trasforma o texto*/
+}
+  
+
+
+
+
+
+

@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-09-22T17:53:54.583Z",
+  "saved_at": "2026-10-06T20:05:00.056Z",
   "tama": {
     "name": "Pochi",
-    "hunger": 37,
-    "thirst": 37,
-    "sleepy": 38,
-    "happiness": 35,
-    "angry": 0,
+    "hunger": 0,
+    "thirst": 0,
+    "sleepy": 1,
+    "happiness": 0,
+    "angry": 74.5,
     "weight": 12,
     "sleeping": false,
-    "dead": false,
-    "depressed": false,
+    "dead": true,
+    "depressed": true,
     "pissed_of": false,
     "overweight": false,
     "underweight": true,
-    "last_saved": "2026-09-22T17:53:54.583Z",
+    "last_saved": "2026-10-06T20:05:00.056Z",
     "xp": 503,
     "level": 8,
     "stage": 2,
@@ -25,7 +25,7 @@
     "total_sleeps": 66,
     "total_exercises": 472,
     "total_annoys": 5,
-    "total_ticks": 48,
+    "total_ticks": 85,
     "achievements": [
       {
         "id": "first_feed",
@@ -53,7 +53,7 @@
         "name": "Night Owl",
         "description": "Stay awake for 50 ticks",
         "icon": "🌙",
-        "unlocked": false
+        "unlocked": true
       },
       {
         "id": "centurion",
@@ -199,19 +199,19 @@
         "quest_id": "daily_feed",
         "status": "active",
         "baseline": 252,
-        "started_at": "2026-09-22T16:28:52.867Z"
+        "started_at": "2026-10-06T16:21:41.774Z"
       },
       {
         "quest_id": "daily_water",
         "status": "active",
         "baseline": 374,
-        "started_at": "2026-09-22T16:28:52.867Z"
+        "started_at": "2026-10-06T16:21:41.774Z"
       },
       {
         "quest_id": "daily_pet",
         "status": "active",
         "baseline": 44,
-        "started_at": "2026-09-22T16:28:52.867Z"
+        "started_at": "2026-10-06T16:21:41.774Z"
       },
       {
         "quest_id": "exterminador",
@@ -245,7 +245,7 @@
       }
     ],
     "total_quests_done": 7,
-    "last_daily_reset": "2026-09-22T16:28:52.867Z",
+    "last_daily_reset": "2026-10-06T16:21:41.774Z",
     "total_enemies_defeated": 0
   },
   "inventory": {
